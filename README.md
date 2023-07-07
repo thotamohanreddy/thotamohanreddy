@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thotamohanreddy
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning ReactJS,MongoDB,Postgres
 - 💞️ I’m looking to collaborate on any interesting app
 
 <!---
